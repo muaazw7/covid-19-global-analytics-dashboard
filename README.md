@@ -37,12 +37,12 @@ The interactive dashboard and visualizations analyze COVID-19 confirmed cases ac
 
 ### COVID-19 Tableau Dashboard
 
-![COVID-19 Tableau Dashboard](images/covid-dashboard.png)
+![COVID-19 Tableau Dashboard](images/dashboard.png)
 
 ### UK vs France Spread Rate
 
-![UK vs France Spread Rate](images/uk-france-spread-rate.png)
+![UK vs France Spread Rate](images/uk-vs-france.png)
 
 ### COVID-19 Top Countries Map
 
-![COVID-19 Top Countries Map](images/top-countries-map.png)
+![COVID-19 Top Countries Map](images/top-12-map.png)
