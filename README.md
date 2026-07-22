@@ -1,5 +1,4 @@
 # COVID-19 Global Analytics Dashboard
-
 This Tableau project analyzes global COVID-19 trends through geographic mapping, KPI reporting, dashboard design, time-series analysis, and logarithmic growth visualizations.
 
 ## Tools Used
@@ -45,10 +44,10 @@ The dashboard transforms raw public health data into interactive visualizations 
 ## Dashboard Visualizations
 
 ### Executive Dashboard
-![COVID-19 Tableau Dashboard](images/covid-dashboard.png)
+![COVID-19 Tableau Dashboard](images/covid-tableau-dashboard.png)
 
 ### Spread Rate Analysis
-![UK vs France Spread Rate](images/uk-france-spread-rate.png)
+![UK vs France Spread Rate](images/uk-france-spread-rate-tableau.png)
 
 ### Geographic Visualization
-![COVID-19 Top Countries Map](images/covid-map.png)
+![COVID-19 Top Countries Map](images/covid-top-countries-map.png)
