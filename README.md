@@ -1,4 +1,5 @@
 # COVID-19 Global Analytics Dashboard
+
 This Tableau project analyzes global COVID-19 trends through geographic mapping, KPI reporting, dashboard design, time-series analysis, and logarithmic growth visualizations.
 
 ## Tools Used
@@ -9,31 +10,45 @@ This Tableau project analyzes global COVID-19 trends through geographic mapping,
 - Time-Series Analysis
 
 ## Business Problem
-Public health and policy decisions require clear visual reporting of infection trends, country-level comparisons, and outbreak patterns. This project uses Tableau to transform COVID-19 case data into interactive dashboards and trend analysis for easier comparison across countries and continents.
+Public health and policy decisions require clear visual reporting of infection trends, country-level comparisons, and outbreak patterns. This project transforms COVID-19 case data into interactive dashboards and visualizations to support data-driven analysis and reporting.
 
 ## Project Overview
-The interactive dashboard and visualizations analyze COVID-19 confirmed cases across countries and continents, including geographic spread, country comparisons, and time-series trends. The project includes map-based analysis, ranked country comparisons, dashboard design, and spread-rate visualizations.
+The interactive dashboard analyzes COVID-19 confirmed cases across countries and continents through geographic mapping, KPI reporting, country comparisons, and time-series trend analysis. The project includes map-based visualizations, ranked country comparisons, dashboard development, and logarithmic growth analysis.
+
+## Dashboard Highlights
+- Interactive geographic mapping
+- KPI dashboard
+- Time-series trend analysis
+- Country comparison dashboard
+- Logarithmic growth visualization
 
 ## Key Features
-- Built a global COVID-19 analytics dashboard in Tableau
-- Created interactive geographic map visualizations highlighting country-level COVID-19 case distribution.
-- Developed ranked dashboard views comparing cumulative confirmed cases across the highest-impact countries.
-- Developed logarithmic time-series visualizations for comparative outbreak trend analysis
+- Built an interactive Tableau dashboard for global COVID-19 analytics
+- Created interactive geographic map visualizations highlighting country-level COVID-19 case distribution
+- Developed ranked dashboard views comparing cumulative confirmed cases across the highest-impact countries
+- Designed logarithmic time-series visualizations for comparative outbreak trend analysis
 - Analyzed spread-rate patterns across multiple continents
 - Compared country-level outbreak trends over time
 
 ## Business Value
-The dashboard transforms raw public health data into interactive visualizations that support trend analysis and country-level comparisons.
+The dashboard transforms raw public health data into interactive visualizations that support trend analysis, geographic comparisons, executive reporting, and data-driven decision-making.
 
 ## Skills Demonstrated
 - Tableau
-- Data Analysis
-- Data Visualization
 - Dashboard Design
-- Time-Series Analysis
+- Data Visualization
 - Business Intelligence
+- KPI Reporting
+- Time-Series Analysis
+- Data Analysis
 
-## Project Images
-![COVID-19 Tableau Dashboard](images/covid-tableau-dashboard.png)
-![UK vs France Spread Rate](images/uk-france-spread-rate-tableau.png)
-![COVID-19 Top Countries Map](images/covid-top-countries-map.png)
+## Dashboard Visualizations
+
+### Executive Dashboard
+![COVID-19 Tableau Dashboard](images/covid-dashboard.png)
+
+### Spread Rate Analysis
+![UK vs France Spread Rate](images/uk-france-spread-rate.png)
+
+### Geographic Visualization
+![COVID-19 Top Countries Map](images/covid-map.png)
