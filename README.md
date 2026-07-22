@@ -19,11 +19,14 @@ The interactive dashboard and visualizations analyze COVID-19 confirmed cases ac
 
 ## Key Features
 - Built a global COVID-19 analytics dashboard in Tableau
-- Created geographic map visualizations of confirmed cases
-- Compared top countries by cumulative confirmed cases
+- Created interactive geographic map visualizations highlighting country-level COVID-19 case distribution.
+- Developed ranked dashboard views comparing cumulative confirmed cases across the highest-impact countries.
 - Developed logarithmic time-series visualizations for comparative outbreak trend analysis
 - Analyzed spread-rate patterns across multiple continents
 - Compared country-level outbreak trends over time
+
+## Business Value
+The dashboard transforms raw public health data into interactive visualizations that support trend analysis and country-level comparisons.
 
 ## Skills Demonstrated
 - Tableau
